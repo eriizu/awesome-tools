@@ -10,3 +10,4 @@ Collection of tools I would use for various projects
 - [meilisearch](https://www.meilisearch.com/), document indexing and searching server
 - [radicale](https://radicale.org), CalDAV and CardDAV server [docker image](https://github.com/tomsquest/docker-radicale)
 - [weblate](https://weblate.org/fr/), translation and i18n platform
+- [convert units](https://www.npmjs.com/package/convert-units/v/3.0.0-beta.3), js/ts library for converting in between units and subdivisions
