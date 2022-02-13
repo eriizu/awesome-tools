@@ -12,3 +12,10 @@ Collection of tools I would use for various projects
 - [weblate](https://weblate.org/fr/), translation and i18n platform
 - [convert units](https://www.npmjs.com/package/convert-units/v/3.0.0-beta.3), js/ts library for converting in between units and subdivisions
 - [charm go librairies](https://charm.sh/)
+
+## frontend web dev
+
+- [blocks protocole for organizing frontend content and data rendering](https://blockprotocol.org/)
+- [a list of design tools by Stéphanie Walter](https://stephaniewalter.design/blog/pixels-of-the-week-february-13-2022/)
+- []()
+- []()
