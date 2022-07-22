@@ -15,10 +15,11 @@ Collection of tools I would use for various projects
 - [plop to create files from templates in projects](https://www.npmjs.com/package/plop)
 - [penpot, figma alternative](https://github.com/penpot)
 - [HATEOAS for structuring web APIs](https://en.wikipedia.org/wiki/HATEOAS)
+- [zod typescript static & runtime type validation](https://github.com/colinhacks/zod)
 
 ## frontend web dev
 
 - [blocks protocole for organizing frontend content and data rendering](https://blockprotocol.org/)
 - [a list of design tools by Stéphanie Walter](https://stephaniewalter.design/blog/pixels-of-the-week-february-13-2022/)
-- []()
+- [daisyui](https://github.com/saadeghi/daisyui)
 - []()
