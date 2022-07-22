@@ -14,6 +14,7 @@ Collection of tools I would use for various projects
 - [charm go librairies](https://charm.sh/)
 - [plop to create files from templates in projects](https://www.npmjs.com/package/plop)
 - [penpot, figma alternative](https://github.com/penpot)
+- [HATEOAS for structuring web APIs](https://en.wikipedia.org/wiki/HATEOAS)
 
 ## frontend web dev
 
