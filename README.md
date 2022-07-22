@@ -13,6 +13,7 @@ Collection of tools I would use for various projects
 - [convert units](https://www.npmjs.com/package/convert-units/v/3.0.0-beta.3), js/ts library for converting in between units and subdivisions
 - [charm go librairies](https://charm.sh/)
 - [plop to create files from templates in projects](https://www.npmjs.com/package/plop)
+- [penpot, figma alternative](https://github.com/penpot)
 
 ## frontend web dev
 
