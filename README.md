@@ -16,6 +16,7 @@ Collection of tools I would use for various projects
 - [penpot, figma alternative](https://github.com/penpot)
 - [HATEOAS for structuring web APIs](https://en.wikipedia.org/wiki/HATEOAS)
 - [zod typescript static & runtime type validation](https://github.com/colinhacks/zod)
+- [kitchen friged CalDAV library in rust](https://docs.rs/kitchen-fridge/latest/kitchen_fridge/)
 
 ## frontend web dev
 
